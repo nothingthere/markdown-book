@@ -77,4 +77,4 @@ mojombo/github-flavored-markdown#1
 
 在`:`后添加对应Emoji代码可呈现对应表情符。比如`:+1`表示会被:+1代替。
 
-可在<http://emoji-cheat-sheet.com/>查看所有表情符和对饮代码。
+可在<http://emoji-cheat-sheet.com/>查看所有表情符和对应代码。
