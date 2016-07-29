@@ -1,3 +1,2 @@
--   [简介](README.md)
--   [0基本语法](docs/0基本语法.md)
--   [1GitHub风格指南](docs/1GitHub风格指南.md)
+-   0基本语法
+-   1GitHub风格指南
