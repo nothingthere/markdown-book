@@ -71,7 +71,7 @@ mojombo/github-flavored-markdown#1
 
 ## 中划线
 
-在`~~`之间的内容会被加上中中划线。
+在`~~`之间的内容会被加上中划线。
 
 ## Emoji
 
